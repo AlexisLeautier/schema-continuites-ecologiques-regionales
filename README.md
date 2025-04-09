@@ -1,7 +1,8 @@
 # Prescriptions nationales pour la dématérialisation des continuités écologiques régionales
 
 ## Description
-La [documentation du standard](https://cnig.gouv.fr/IMG/documents_wordpress/2018/10/181001_Standard_CNIG_CER_v2018.pdf) est disponible ici.
+> [!TIP]
+> Le standard CNIG Continuités Ecologiques Régionales n'a pas de schéma directement exploitable par schema.data.gouv.fr. Vous pouvez consulter la [documentation du standard](https://cnig.gouv.fr/IMG/documents_wordpress/2018/10/181001_Standard_CNIG_CER_v2018.pdf) sur le site du CNIG.
 
 Ce géostandard est le résultat de la standardisation des données relatives aux Continuités Ecologiques Régionales élaborées, mises à jour et suivies conjointement par la Région (Conseil Régional) et l’État (DREAL ou DRIEE) en association avec les comités régionaux "trames verte et bleue” créés dans chaque région et devenus depuis la loi pour la reconquête de la nature, de la biodiversité et des paysages, comités régionaux de la biodiversité (CRB).
 
